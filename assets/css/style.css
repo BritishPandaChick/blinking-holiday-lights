@@ -1,7 +1,9 @@
+/* Base Styles */
 body {
   background: #1f253c;
 }
 
+/* Light Strand */
 .strand {
   text-align: center;
   white-space: nowrap;
@@ -95,6 +97,7 @@ body {
   margin-left: 40px;
 }
 
+/* Flashing lightbulb animation */
 @-webkit-keyframes flash-1 {
   0%, 100% {
     background: #f02241;
