@@ -1,12 +1,14 @@
 # Blinking Holiday Lights
+Holiday lights blink across the top of a web page.
 
-Holiday lights project based on Codeplayer.com tutorial Pure CSS Blinking Holiday lights. Used HTML and CSS to create.
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. The lights will appear at the top of the browser and will begin blinking.
 
 ## Acknowledgements
 * TheCodePlayer.com
